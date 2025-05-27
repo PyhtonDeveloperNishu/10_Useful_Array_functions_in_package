@@ -1,0 +1,20 @@
+{
+  "name": "10_array_useful_functions",
+  "version": "1.0.0",
+  "description": "A utility to perform 10 useful array functions",
+  "homepage": "https://github.com/PyhtonDeveloperNishu/10_Useful_Array_functions_in_package#readme",
+  "bugs": {
+    "url": "https://github.com/PyhtonDeveloperNishu/10_Useful_Array_functions_in_package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PyhtonDeveloperNishu/10_Useful_Array_functions_in_package.git"
+  },
+  "license": "ISC",
+  "author": "Nishu Kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
