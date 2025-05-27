@@ -84,7 +84,7 @@ console.log(countBy([1.1, 2.5, 2.8], Math.floor)); // { '1': 1, '2': 2 }
 
 **Nishu Kumar**
 
-- 🔗 [GitHub](https://github.com/PyhtonDeveloperNishu)
+- 🔗 [GitHub](https://github.com/PyhtonDeveloperNishu/10_Useful_Array_functions_in_package.git)
 - 🔗 [NPM Package](https://www.npmjs.com/package/10_array_useful_functions)
 
 ---
